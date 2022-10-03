@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Functional Inset Wall Shelves",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "Uses Furniture Display Framework to add item spots to my inset wall shelves.",
+    "UniqueID": "StarAmy.FunctionalWallShelfFunction",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+ }

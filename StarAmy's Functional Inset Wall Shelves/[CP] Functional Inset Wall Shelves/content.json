@@ -1,0 +1,828 @@
+﻿{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Mods/aedenthorn.FurnitureDisplayFramework/dictionary",
+			"Entries": 
+			{
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Upper": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Lower": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Double Inset Shelf": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Tall Inset Shelf": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Large Inset Shelf": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Upper with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Lower with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Double Inset Shelf with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Tall Inset Shelf with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Large Inset Shelf with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Upper Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Lower Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Double Inset Shelf Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Tall Inset Shelf Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Large Inset Shelf Light Wood": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Upper Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Single Inset Shelf Lower Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Double Inset Shelf Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 2,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 2,
+								"Width": 12,
+								"Height": 12
+							}
+						},
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Tall Inset Shelf Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							}
+						}
+					]
+				},
+				"StarAmy.FunctionalWallShelves/Large Inset Shelf Light Wood with Lighting": 
+				{
+					"slots": [
+						{
+							"slotRect": 
+							{
+								"X": 1,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 2,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+
+						},
+						{
+							"slotRect": 
+							{
+								"X": 17,
+								"Y": 18,
+								"Width": 16,
+								"Height": 16
+							},
+							"itemRect": {
+								"X": 18,
+								"Y": 18,
+								"Width": 12,
+								"Height": 12
+							},
+							
+						}
+					]
+				},
+			}
+		}
+	]
+}

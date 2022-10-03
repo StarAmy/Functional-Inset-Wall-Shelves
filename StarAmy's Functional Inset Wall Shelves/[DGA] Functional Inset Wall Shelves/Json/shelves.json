@@ -1,0 +1,726 @@
+
+
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Upper",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Upper"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Lower",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Lower"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Upper",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Lower",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Double Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_double.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Double Inset Shelf"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Tall Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_tall.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+	
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Tall Inset Shelf"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Large Inset Shelf",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_large.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Large Inset Shelf"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Upper with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Upper with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Lower with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Lower with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Upper with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Lower with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Double Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_double.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Double Inset Shelf with Lighting"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Tall Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_tall.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Tall Inset Shelf with Lighting"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Large Inset Shelf with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_large.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 500,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Large Inset Shelf with Lighting"
+		}
+	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Upper Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Upper Light Wood"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Lower Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Lower Light Wood"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Upper Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper Light Wood"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Lower Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower Light Wood"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Double Inset Shelf Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_double_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Double Inset Shelf Light Wood"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Tall Inset Shelf Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_tall_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+	
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Tall Inset Shelf Light Wood"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Large Inset Shelf Light Wood",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_large_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Large Inset Shelf Light Wood"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Upper Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Upper Light Wood with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Single Inset Shelf Lower Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_single_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Single Inset Shelf Lower Light Wood with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Upper Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 1
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Upper Light Wood with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wide Inset Shelf Lower Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_wide_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 1
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Wide Inset Shelf Lower Light Wood with Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Double Inset Shelf Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_double_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Double Inset Shelf Light Wood with Lighting"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Tall Inset Shelf Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_tall_light.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Tall Inset Shelf Light Wood with Lighting"
+		}
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Large Inset Shelf Light Wood with Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/empty_shelf_large_light.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			},
+			
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 500,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "StarAmy.FunctionalWallShelves/Large Inset Shelf Light Wood with Lighting"
+		}
+	},
+
+	
+]
